@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+  color: darkgray;
+}
+
+p {
+  color: grey;
+  line-height: 1.6em;
+}
